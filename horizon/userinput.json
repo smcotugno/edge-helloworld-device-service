@@ -4,7 +4,7 @@
             "org": "$HZN_ORG_ID",
             "url": "$SERVICE_NAME",
             "variables": {
-                /* "HW_WHO": "Fred" */
+                 "HW_WHO": "Steve"
             }
         }
     ]
